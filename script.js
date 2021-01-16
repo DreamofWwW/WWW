@@ -1,0 +1,15 @@
+var names = prompt('Как вас зовут?')
+alert('НЕ ПИЗДИ МНЕ НАХУЙ:' + names)
+var years = prompt('Сколько вам лет?')
+alert('СТАРПЕР ЕБАННЫЙ:' +  years)
+var nickname = prompt('Ваш никнейм?')
+alert('И ЧЕ СУКА:'   + nickname)
+var password = prompt('Ваш пароль?')
+alert('ХУЛИ ПИШЕШЬ И ТАК ЗНАЛ:'  + password)
+var hobby = prompt('Ваше хобби?')
+alert('ДА ПОЕБАТЬ НАХУЙ:'  +  hobby )
+var adress = prompt('Адрес?')
+alert('ДА ТЫ БОМЖ ЕБАННЫЙ:'  +   adress)
+alert('ХУЙНЕЙ НЕ СТРАДАЙ, ИДИ УЧИСЬ :)')
+console.log('Вы:' + names ,  'вам:' +  years  ,'никнейм:'   + nickname,   'пароль:'  + password ,    'хобби:'  +  hobby   , 'адрес:'  +   adress );
+  
